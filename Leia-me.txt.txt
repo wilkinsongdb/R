@@ -1,0 +1,1 @@
+ - Arquivo "Visualizações com ggplot2" possui script comparando a criação de gráficos com Base Plotting System e ggplot2 para análise de aluguel diários de bicicletas em cada estação do ano!
